@@ -1,0 +1,10 @@
+#+TITLE: 11: Status Window
+#+DATE: 2020-03-14
+#+LAYOUT: post
+#+DRAFT: true
+#+TAGS[]: mylife-status-window
+
+* Status window
+build using glitch.com
+visit the demo here
+https://my-status-window.glitch.me/
