@@ -1,0 +1,16 @@
+---
+title: "Awal Sebagai Indie Maker"
+date: 2022-04-02T19:41:48+07:00
+draft: false
+---
+
+* Apa itu indie maker
+Indie maker umumnya sebutan untuk orang yang membuat sebuah karya secara independent.
+Independent disini maksudnya secara individu tanpa terikat oleh perusahaan.
+Berbeda dengan startup yang memiliki target untuk menjadi perusahaan, indie maker memiliki target yang berbeda.
+Karena prosesnya secara individu umumnya indie maker lebih fokus kepada penghasilan sebagai target, berbeda dengan startup atau perusahaan yang metric pengukurannya bisa memiliki banyak bentuk seperti jumlah pengguna aktif, jumlah download dan target-target lainnya.
+* Perkenalan
+Saya sendiri dari lama sudah berkeinginan untuk menjadi indie maker. Bedanya kali ini saya akan mendokumentasikan segala proses yang saya lakukan selama berusaha menjadi indie maker.
+Target awal saya yaitu mendapatkan 1$ kemudian 10$ lalu milestone ketiga yaitu 100$.
+* Rencana
+Rencana awal saya yaitu memilih stack technology yang akan saya gunakan. Lalu memilih ide yang simple kemudian membuat landing page dan coding project pertama. Saya berharap dalam waktu 1 minggu saya sudah bisa launch ide pertama saya yaitu keluargain.
