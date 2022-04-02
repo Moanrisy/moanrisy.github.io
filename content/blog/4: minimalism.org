@@ -1,7 +1,7 @@
 #+TITLE: Membuat hidup lebih sederhana
 #+DATE: 2020-03-21
 #+LAYOUT: post
-#+DRAFT: false
+#+DRAFT: true
 #+TAGS[]: mylife
 
 * Apakah hidup itu rumit atau sederhana?
