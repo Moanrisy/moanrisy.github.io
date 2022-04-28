@@ -1,0 +1,29 @@
+---
+title: "Progress Bulan April 2022"
+date: 2022-04-28T11:07:04+07:00
+draft: true
+---
+
+* 1 Bulan setelah komitmen menjadi indie maker
+Tidak terasa satu bulan sudah berlalu.
+4 Hari lagi sudah memasuki bulan mei, banyak hal yang sudah dilakukan dalam 1 bulan ini tapi progress tidak terlihat sama sekali.
+Rencana awal membuat progress report tiap 1 minggu sekali tapi ternyata banyak hal yang membuat rencana itu gagal.
+Dalam 4 hari kedepan akan menjadi hari yang sangat sibuk. Hal yang saya pelajari dan project dalam 1 bulan terakhir harus di publish.
+Walaupun project belum selesai tapi yang paling penting bukanlah hasilnya, tapi proses dan 'learning in public'.
+
+* Tantangan yang dihadapi dalam 1 bulan
+** Belum bisa membuat project skala besar
+Masalah dari dulu yang membuat susah memanglah project skala besar.
+Setiap project menjadi makin besar, banyak masalah yang akan bermunculan.
+
+** Basic coding masih perlu diasah
+1 bulan ini kebanyakan waktu digunakan hanya untuk belajar code. Menghabiskan waktu untuk belajar code bukanlah masalah, tapi
+tidak mempublish apa yang dipelajari dan hanya mengikuti course tutorial lah yang seharusnya tidak dilakukan. Tangan perlu kotor
+untuk belajar code, tidak bisa hanya mengikuti course atau bootcamp untuk menguasainya.
+** Menunda-nunda menjadi hambatan terbesar
+Masalah yang sampai saat ini belum ada solusinya. Selalu dari dulu menunda-nunda menjadi akar masalah. Bulan berikutnya
+akan saya coba untuk melakukan Pomodoro pada setiap hal, untuk menghindari burnout dan kebiasaan menunda-nunda.
+
+* Rencana bulan berikutnya
+Bulan berikutnya akan dilakukan dengan hati-hati. Hati-hati yang dimaksud adalah memulai sesuatu dengan pelan-pelan.
+Fokus pada apa yang bisa dilakukan dan mulai dari kecil. Set target, tulis, publish dan ulangi.
