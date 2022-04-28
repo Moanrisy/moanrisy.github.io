@@ -1,0 +1,10 @@
+---
+title: "Ninja List"
+date: 2022-04-28T11:55:19+07:00
+draft: false
+---
+
+* Ninja List
+stack: Next.js + netlify identity
+live preview: https://playful-bubblegum-c070b1.netlify.app/
+github: https://github.com/Moanrisy/ninja-list
