@@ -1,7 +1,7 @@
 ---
 title: "Progress Bulan April 2022"
 date: 2022-04-28T11:07:04+07:00
-draft: true
+draft: false
 ---
 
 * 1 Bulan setelah komitmen menjadi indie maker
