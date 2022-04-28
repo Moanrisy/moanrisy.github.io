@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mylife-status-window on codex</title>
+    <link>https://moanrisy.github.io/tags/mylife-status-window/</link>
+    <description>Recent content in mylife-status-window on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://moanrisy.github.io/tags/mylife-status-window/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11: Status Window</title>
+      <link>https://moanrisy.github.io/blog/11-status-window/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://moanrisy.github.io/blog/11-status-window/</guid>
+      <description> Status window  build using glitch.com visit the demo here https://my-status-window.glitch.me/
+  </description>
+    </item>
+    
+  </channel>
+</rss>
