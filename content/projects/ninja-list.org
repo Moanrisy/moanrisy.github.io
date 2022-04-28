@@ -5,6 +5,6 @@ draft: false
 ---
 
 * Ninja List
-stack: Next.js + netlify identity
-live preview: https://playful-bubblegum-c070b1.netlify.app/
-github: https://github.com/Moanrisy/ninja-list
+- stack: Next.js + netlify identity
+- live preview: https://playful-bubblegum-c070b1.netlify.app/
+- github: https://github.com/Moanrisy/ninja-list
