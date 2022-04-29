@@ -8,3 +8,5 @@ draft: false
 Mulai dari 0 lagi setelah 2 bulan belajar web development.
 Sepertinya game development menarik, karena ada orang yang bilang menjadi indiemaker tanpa penghasilan akan sulit.
 Jadi game developer adalah pekerjaan utama dan belajar web sebagai hobby. Bismilah semoga bisa segera mendapatkan pekerjaan sebagai game dev.
+
+* Start on 29 April 2022
