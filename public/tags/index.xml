@@ -6,34 +6,6 @@
     <description>Recent content in Tags on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://moanrisy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>mylife</title>
-      <link>https://moanrisy.github.io/tags/mylife/</link>
-      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/tags/mylife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mylife-status-window</title>
-      <link>https://moanrisy.github.io/tags/mylife-status-window/</link>
-      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/tags/mylife-status-window/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mylife-complete-with-minami-chan</title>
-      <link>https://moanrisy.github.io/tags/mylife-complete-with-minami-chan/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://moanrisy.github.io/tags/mylife-complete-with-minami-chan/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>© {year}</copyright><atom:link href="https://moanrisy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
