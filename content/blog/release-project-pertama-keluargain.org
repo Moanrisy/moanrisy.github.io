@@ -1,0 +1,8 @@
+---
+title: "Release Project Pertama Keluargain"
+date: 2022-05-03T06:03:49+07:00
+draft: false
+---
+
+* Keluargain
+Aplikasi silsilah keluarga untuk lebih mengenal keluarga. Keluargain dapat di akses melalui link berikut https://bit.ly/keluargain
