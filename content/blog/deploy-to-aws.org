@@ -1,0 +1,13 @@
+---
+title: "Deploy to Aws"
+date: 2022-05-03T17:45:45+07:00
+draft: false
+---
+
+* deploy project pertama dengan heroku
+kadang website tidak bisa di akses selama beberapa menit lalu bekerja lagi. Mencoba platform lain yaitu aws.
+* tutorial aws yang digunakana
+part 1
+https://sumantmishra.medium.com/securely-ssh-into-aws-ec2-linux-instance-42ad8a322ac5
+part 2
+https://sumantmishra.medium.com/how-to-deploy-node-js-app-on-aws-with-github-db99758294f1
