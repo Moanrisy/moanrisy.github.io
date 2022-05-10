@@ -16,3 +16,9 @@ AWS berjalan dengan normal tapi ada beberapa hambatan.
 NODE_ENV masih di development secara default, walaupun ini bisa diatasi dengan NODE_ENV=production lalu npm run start.
 Masalah kedua adalah, ketika dijalankan menggunakan aws, saya perlu melakukan koneksi SSH dengan server aws ec2.
 Ketika di SSH di close, maka website berhenti berjalan di AWS
+
+
+Masalah di aws bisa diatasi dengan menggunakan PM2 production manager 2 dengan tutorial ini
+https://ourcodeworld.com/articles/read/977/how-to-deploy-a-node-js-application-on-aws-ec2-server
+lalu menjalankan npm script dengan npm2
+https://stackoverflow.com/questions/31579509/can-pm2-run-an-npm-start-script
