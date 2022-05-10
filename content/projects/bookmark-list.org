@@ -1,10 +1,10 @@
 ---
-title: "Bookmark List"
+title: "Bookmark API"
 date: 2022-05-10T12:59:30+07:00
 draft: false
 ---
 
-* Bookmark List
+* Bookmark API
 - stack: Nest.js + deploy on heroku + portgresql db with prisma ORM
 - live preview: https://nestjs-tryout.herokuapp.com/api/
 - github: https://github.com/Moanrisy/nestjs-tryout/
