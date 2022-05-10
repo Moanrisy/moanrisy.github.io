@@ -20,3 +20,15 @@ because heroku can't read .env file that I put in .gitignore.
 
 I use this solution too because heroku can't use nest cli, so I put NODE_ENV=Productino to false in config_vars
 https://dev.to/rosyshrestha/deploy-nestjs-typescript-app-to-heroku-27e
+
+* Deploy postgresql using heroku addons
+For this NestJS API, I'm using heroku addons. But I think for the next project is better using mongodb.
+https://elements.heroku.com/addons/heroku-postgresql
+then update config_vars in heroku using heroku-postgresql link
+
+but when I try the API, it give me statusCode 500 internal server error.
+
+Fixed by updateing Procfile
+web: npm run start:prisma:prod
+then the package.json
+"start:prisma:prod": "npm run prisma:dev:deploy && node dist/main",
