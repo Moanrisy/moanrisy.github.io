@@ -1,0 +1,22 @@
+---
+title: "Deploy Nestjs Api to Heroku"
+date: 2022-05-10T12:20:02+07:00
+draft: false
+---
+
+* Deploy NEST JS API to local development problem
+solution for this 2 problem
+** DTO show empty object
+https://stackoverflow.com/questions/68645579/why-this-schema-empty-how-to-setting-apiproperty-in-nestjs
+** Auth header didn't working
+https://github.com/nestjs/swagger/issues/98
+
+* Deploy to heroku
+This problem is the same with me
+https://github.com/prisma/prisma/issues/12683
+the solution is to write config_vars on heroku setting.
+because heroku can't read .env file that I put in .gitignore.
+
+
+I use this solution too because heroku can't use nest cli, so I put NODE_ENV=Productino to false in config_vars
+https://dev.to/rosyshrestha/deploy-nestjs-typescript-app-to-heroku-27e
