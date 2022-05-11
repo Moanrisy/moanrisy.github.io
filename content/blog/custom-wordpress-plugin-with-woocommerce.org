@@ -1,0 +1,50 @@
+---
+title: "Custom Wordpress Plugin With Woocommerce"
+date: 2022-05-11T11:18:42+07:00
+draft: false
+---
+
+* Apa itu Woocommerce?
+Woocommerce adalah salah satu plugin wordpress yang memudahkan pengguna untuk membuat website e-commerce.
+* Kenapa belajar membuat custom wordpress plugin?
+Karena melihat freelance project ini
+https://projects.co.id/public/browse_projects/view/549719/membuat-plugin-cek-ongkir-woocomerce
+Jadi tertantang untuk belajar membuatnya.
+Spesifikasinya seperti ini
+hallo freelancer
+
+saya sedang mencari developer plugin wordpress yang bisa membuat plugin cek ongkir untuk woocomerce yang nantinya menggunakan api rajaongkir
+
+- > nanti bisa di tentukan ekspedisi apa saja yang bisa aktif
+
+-> bisa untuk shipping zone , artinya kita bisa tentukan  ekspedisi nya yg mana khusus wilayah tertentu
+
+-> multi origin shiping memungkinkan setiap setiap produk di WooCommerce dikirimkan dari tempat yang berbeda.
+
+-> di detail order di menu myaccount user akan terlihat pengirimanya
+
+-> di email nanti ada tambahan order ekspedisi resinya => https://prnt.sc/skM0IpUKXt1s
+
+silahakan bid bila ada yang bisa
+
+note : mohon yang bid nanti pluginya memang buatan original, bukan modifikasi dr plugin yang ada
+* Sample project untuk belajar
+Pertama membuat ecommerce website dengan wordpress dan plugin woocommerce melalui easywp dari namecheap
+https://dashboard.easywp.com/
+
+* tutorial belajar buat custom plugin wordpress
+https://wpswings.com/blog/create-woocommerce-plugin/
+
+using wp-env to debug on my local environment using docker withput setup wordpress.
+
+Setelah 4 jam berusaha, saya menyerah karena plugin yang saya tulis memiliki error setelah upload ke wordpress admin. Untuk menghapus plugin juga tidak bisa karena plugin membuat dashboard crash.
+
+* Mencoba sekali lagi
+Setelah menyerah, kepikiran untuk install wordpress saja dengan command
+sudo wget https://wordpress.org/latest.zip lalu unzip latest.zip
+
+Nantinya ini akan menampilkan directory wordpress/wp-content/plugins/
+
+Untuk menambah plugin tinggal buat folder aja di directory tersebut.
+
+Setelah beberapa menit lagi mencoba-coba, ternyata tidak semudah yang dibayangkan. Saya kira membuat wordpress plugin itu mudah.
