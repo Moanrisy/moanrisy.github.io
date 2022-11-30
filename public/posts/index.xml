@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 20:00:11 +0700</lastBuildDate><atom:link href="http://moanrisy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:22 +0700</lastBuildDate><atom:link href="http://moanrisy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple hack by swapping keyboard button</title>
+      <link>http://moanrisy.github.io/posts/power-toys/power-toys/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:22 +0700</pubDate>
+      
+      <guid>http://moanrisy.github.io/posts/power-toys/power-toys/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>http://moanrisy.github.io/posts/hello-world/</link>
