@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,12 +36,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# Default keyboard layout problem
+## Default keyboard layout problem
 
 1. The capslock button is big but useless
 2. PgUp, PgDn button is merged with the up and down arrow keys
 
-# Simple solution using the PowerToys app
+## Simple solution using the PowerToys app
 
 1. Swap the capslock button with the left control button
 2. Swap down keys with fn+PgDn
