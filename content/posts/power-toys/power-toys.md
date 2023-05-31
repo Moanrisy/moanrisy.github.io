@@ -1,5 +1,5 @@
 ---
-title: "Simple hack by swapping keyboard button"
+title: "Simple hack by swapping keyboard button in windows"
 date: 2022-12-01T00:00:22+07:00
 # weight: 1
 # aliases: ["/first"]
