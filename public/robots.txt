@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://moanrisy.github.io/sitemap.xml
