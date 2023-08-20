@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
+categories: "hello"
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
